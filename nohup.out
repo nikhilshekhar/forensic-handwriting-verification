@@ -1,0 +1,476 @@
+('Extracting', '/home/nikhil/data/scripts/validation-images-and-ubyte_13.gz')
+('Extracting', '/home/nikhil/data/scripts/validation-labels-and_ubyte_13.gz')
+('Extracting', '/home/nikhil/data/scripts/validation-images-and-ubyte_13.gz')
+('Extracting', '/home/nikhil/data/scripts/validation-labels-and_ubyte_13.gz')
+('Extracting', '/home/nikhil/data/scripts/validation-images-and-ubyte_13.gz')
+('Extracting', '/home/nikhil/data/scripts/validation-labels-and_ubyte_13.gz')
+('Train images dimensions:', (14110, 4096))
+('Train labels dimesnions:', (14110, 2))
+('Test images dimesnions:', (14110, 4096))
+('Test labels dimensions:', (14110, 2))
+******************* EPOCH 0 **************
+Model saved in file: ./model.ckpt
+test accuracy 0.675762
+******************* EPOCH 1 **************
+step 200, training accuracy 0.64
+step 200, validation accuracy0.740893
+Model saved in file: ./model.ckpt
+test accuracy 0.783629
+Done!!
+('Extracting', '/home/nikhil/data/scripts/training-images-and-ubyte_13.gz')
+('Extracting', '/home/nikhil/data/scripts/training-labels-and-ubyte_13.gz')
+('Extracting', '/home/nikhil/data/scripts/validation-images-and-ubyte_13.gz')
+('Extracting', '/home/nikhil/data/scripts/validation-labels-and_ubyte_13.gz')
+('Extracting', '/home/nikhil/data/scripts/testing-images-and-ubyte_13.gz')
+('Extracting', '/home/nikhil/data/scripts/testing-labels-and-ubyte_13.gz')
+('Train images dimensions:', (139021, 4096))
+('Train labels dimesnions:', (139021, 2))
+('Test images dimesnions:', (14119, 4096))
+('Test labels dimensions:', (14119, 2))
+******************* EPOCH 0 **************
+step 200, training accuracy 0.63
+step 200, validation accuracy0.618497
+step 400, training accuracy 0.75
+step 400, validation accuracy0.691212
+step 600, training accuracy 0.7
+step 600, validation accuracy0.719348
+step 800, training accuracy 0.73
+step 800, validation accuracy0.746917
+step 1000, training accuracy 0.71
+step 1000, validation accuracy0.77073
+step 1200, training accuracy 0.8
+step 1200, validation accuracy0.777392
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+('Extracting', '/home/nikhil/data/scripts/training-images-and-ubyte_13.gz')
+('Extracting', '/home/nikhil/data/scripts/training-labels-and-ubyte_13.gz')
+('Extracting', '/home/nikhil/data/scripts/validation-images-and-ubyte_13.gz')
+('Extracting', '/home/nikhil/data/scripts/validation-labels-and_ubyte_13.gz')
+('Extracting', '/home/nikhil/data/scripts/testing-images-and-ubyte_13.gz')
+('Extracting', '/home/nikhil/data/scripts/testing-labels-and-ubyte_13.gz')
+('Train images dimensions:', (139021, 4096))
+('Train labels dimesnions:', (139021, 2))
+('Test images dimesnions:', (14119, 4096))
+('Test labels dimensions:', (14119, 2))
+******************* EPOCH 0 **************
+step 200, training accuracy 0.61
+step 200, validation accuracy0.626293
+step 400, training accuracy 0.6
+step 400, validation accuracy0.690291
+step 600, training accuracy 0.73
+step 600, validation accuracy0.713395
+step 800, training accuracy 0.76
+step 800, validation accuracy0.723884
+step 1000, training accuracy 0.71
+step 1000, validation accuracy0.717364
+step 1200, training accuracy 0.63
+step 1200, validation accuracy0.755422
+Model saved in file: ./model.ckpt
+test accuracy 0.762802
+******************* EPOCH 1 **************
+step 1400, training accuracy 0.72
+step 1400, validation accuracy0.742665
+step 1600, training accuracy 0.79
+step 1600, validation accuracy0.759461
+step 1800, training accuracy 0.68
+step 1800, validation accuracy0.778809
+step 2000, training accuracy 0.81
+step 2000, validation accuracy0.782495
+step 2200, training accuracy 0.79
+step 2200, validation accuracy0.793196
+step 2400, training accuracy 0.86
+step 2400, validation accuracy0.773281
+step 2600, training accuracy 0.78
+step 2600, validation accuracy0.806875
+Model saved in file: ./model.ckpt
+test accuracy 0.814789
+******************* EPOCH 2 **************
+step 2800, training accuracy 0.79
+step 2800, validation accuracy0.812828
+step 3000, training accuracy 0.81
+step 3000, validation accuracy0.813111
+step 3200, training accuracy 0.8
+step 3200, validation accuracy0.818639
+step 3400, training accuracy 0.82
+step 3400, validation accuracy0.822537
+step 3600, training accuracy 0.79
+step 3600, validation accuracy0.81871
+step 3800, training accuracy 0.81
+step 3800, validation accuracy0.82438
+step 4000, training accuracy 0.85
+step 4000, validation accuracy0.826789
+Model saved in file: ./model.ckpt
+test accuracy 0.83115
+******************* EPOCH 3 **************
+step 4200, training accuracy 0.89
+step 4200, validation accuracy0.834515
+step 4400, training accuracy 0.82
+step 4400, validation accuracy0.836499
+step 4600, training accuracy 0.85
+step 4600, validation accuracy0.838696
+step 4800, training accuracy 0.89
+step 4800, validation accuracy0.831538
+step 5000, training accuracy 0.85
+step 5000, validation accuracy0.837916
+step 5200, training accuracy 0.92
+step 5200, validation accuracy0.835436
+step 5400, training accuracy 0.78
+step 5400, validation accuracy0.821049
+Model saved in file: ./model.ckpt
+test accuracy 0.828175
+******************* EPOCH 4 **************
+step 5600, training accuracy 0.87
+step 5600, validation accuracy0.834444
+step 5800, training accuracy 0.91
+step 5800, validation accuracy0.842381
+step 6000, training accuracy 0.84
+step 6000, validation accuracy0.846988
+step 6200, training accuracy 0.78
+step 6200, validation accuracy0.846704
+step 6400, training accuracy 0.84
+step 6400, validation accuracy0.848405
+step 6600, training accuracy 0.96
+step 6600, validation accuracy0.8382
+step 6800, training accuracy 0.91
+step 6800, validation accuracy0.844578
+Model saved in file: ./model.ckpt
+test accuracy 0.849281
+******************* EPOCH 5 **************
+step 7000, training accuracy 0.92
+step 7000, validation accuracy0.851878
+step 7200, training accuracy 0.94
+step 7200, validation accuracy0.859249
+step 7400, training accuracy 0.8
+step 7400, validation accuracy0.847342
+step 7600, training accuracy 0.87
+step 7600, validation accuracy0.832034
+step 7800, training accuracy 0.85
+step 7800, validation accuracy0.854288
+step 8000, training accuracy 0.87
+step 8000, validation accuracy0.863076
+step 8200, training accuracy 0.93
+step 8200, validation accuracy0.861162
+Model saved in file: ./model.ckpt
+test accuracy 0.853106
+******************* EPOCH 6 **************
+step 8400, training accuracy 0.92
+step 8400, validation accuracy0.862084
+step 8600, training accuracy 0.96
+step 8600, validation accuracy0.855634
+step 8800, training accuracy 0.92
+step 8800, validation accuracy0.862651
+step 9000, training accuracy 0.97
+step 9000, validation accuracy0.854075
+step 9200, training accuracy 0.92
+step 9200, validation accuracy0.865698
+step 9400, training accuracy 0.88
+step 9400, validation accuracy0.86747
+step 9600, training accuracy 0.91
+step 9600, validation accuracy0.860028
+Model saved in file: ./model.ckpt
+test accuracy 0.87832
+******************* EPOCH 7 **************
+step 9800, training accuracy 0.92
+step 9800, validation accuracy0.868675
+step 10000, training accuracy 0.88
+step 10000, validation accuracy0.868816
+step 10200, training accuracy 0.89
+step 10200, validation accuracy0.863288
+step 10400, training accuracy 0.94
+step 10400, validation accuracy0.866123
+step 10600, training accuracy 0.94
+step 10600, validation accuracy0.87151
+step 10800, training accuracy 0.9
+step 10800, validation accuracy0.865131
+step 11000, training accuracy 0.93
+step 11000, validation accuracy0.872077
+Model saved in file: ./model.ckpt
+test accuracy 0.878674
+******************* EPOCH 8 **************
+step 11200, training accuracy 0.96
+step 11200, validation accuracy0.870659
+step 11400, training accuracy 0.88
+step 11400, validation accuracy0.87073
+step 11600, training accuracy 0.91
+step 11600, validation accuracy0.872644
+step 11800, training accuracy 0.92
+step 11800, validation accuracy0.871226
+step 12000, training accuracy 0.96
+step 12000, validation accuracy0.874132
+step 12200, training accuracy 0.98
+step 12200, validation accuracy0.86995
+step 12400, training accuracy 0.97
+step 12400, validation accuracy0.871155
+Model saved in file: ./model.ckpt
+test accuracy 0.880516
+******************* EPOCH 9 **************
+step 12600, training accuracy 0.94
+step 12600, validation accuracy0.871722
+step 12800, training accuracy 0.93
+step 12800, validation accuracy0.870943
+step 13000, training accuracy 0.96
+step 13000, validation accuracy0.868746
+step 13200, training accuracy 0.93
+step 13200, validation accuracy0.870163
+step 13400, training accuracy 0.93
+step 13400, validation accuracy0.872147
+step 13600, training accuracy 0.87
+step 13600, validation accuracy0.873069
+step 13800, training accuracy 0.93
+step 13800, validation accuracy0.873069
+Model saved in file: ./model.ckpt
+test accuracy 0.887102
+******************* EPOCH 10 **************
+step 14000, training accuracy 0.99
+step 14000, validation accuracy0.876258
+step 14200, training accuracy 0.92
+step 14200, validation accuracy0.873069
+step 14400, training accuracy 0.97
+step 14400, validation accuracy0.872573
+step 14600, training accuracy 0.98
+step 14600, validation accuracy0.87314
+step 14800, training accuracy 0.98
+step 14800, validation accuracy0.870659
+step 15000, training accuracy 0.98
+step 15000, validation accuracy0.869809
+step 15200, training accuracy 0.93
+step 15200, validation accuracy0.875337
+Model saved in file: ./model.ckpt
+test accuracy 0.895248
+******************* EPOCH 11 **************
+step 15400, training accuracy 0.98
+step 15400, validation accuracy0.876754
+step 15600, training accuracy 0.97
+step 15600, validation accuracy0.874274
+step 15800, training accuracy 0.95
+step 15800, validation accuracy0.873494
+step 16000, training accuracy 0.96
+step 16000, validation accuracy0.872644
+step 16200, training accuracy 0.97
+step 16200, validation accuracy0.870659
+step 16400, training accuracy 0.97
+step 16400, validation accuracy0.874132
+step 16600, training accuracy 0.95
+step 16600, validation accuracy0.875833
+Model saved in file: ./model.ckpt
+test accuracy 0.89029
+******************* EPOCH 12 **************
+step 16800, training accuracy 0.97
+step 16800, validation accuracy0.873423
+step 17000, training accuracy 1
+step 17000, validation accuracy0.870092
+step 17200, training accuracy 0.98
+step 17200, validation accuracy0.869738
+step 17400, training accuracy 0.98
+step 17400, validation accuracy0.86995
+step 17600, training accuracy 1
+step 17600, validation accuracy0.872289
+step 17800, training accuracy 0.97
+step 17800, validation accuracy0.874911
+step 18000, training accuracy 0.98
+step 18000, validation accuracy0.874486
+Model saved in file: ./model.ckpt
+test accuracy 0.897797
+******************* EPOCH 13 **************
+step 18200, training accuracy 0.99
+step 18200, validation accuracy0.87399
+step 18400, training accuracy 0.98
+step 18400, validation accuracy0.8764
+step 18600, training accuracy 0.99
+step 18600, validation accuracy0.869313
+step 18800, training accuracy 0.99
+step 18800, validation accuracy0.864493
+step 19000, training accuracy 0.99
+step 19000, validation accuracy0.864564
+step 19200, training accuracy 0.99
+step 19200, validation accuracy0.869454
+step 19400, training accuracy 0.98
+step 19400, validation accuracy0.869029
+Model saved in file: ./model.ckpt
+test accuracy 0.896593
+******************* EPOCH 14 **************
+step 19600, training accuracy 0.99
+step 19600, validation accuracy0.869454
+step 19800, training accuracy 0.99
+step 19800, validation accuracy0.875195
+step 20000, training accuracy 1
+step 20000, validation accuracy0.868037
+step 20200, training accuracy 0.98
+step 20200, validation accuracy0.865911
+step 20400, training accuracy 0.99
+step 20400, validation accuracy0.87321
+step 20600, training accuracy 0.98
+step 20600, validation accuracy0.873069
+step 20800, training accuracy 0.97
+step 20800, validation accuracy0.869738
+Model saved in file: ./model.ckpt
+test accuracy 0.900914
+******************* EPOCH 15 **************
+step 21000, training accuracy 0.99
+step 21000, validation accuracy0.872856
+step 21200, training accuracy 0.99
+step 21200, validation accuracy0.873707
+step 21400, training accuracy 0.99
+step 21400, validation accuracy0.873281
+step 21600, training accuracy 0.99
+step 21600, validation accuracy0.866903
+step 21800, training accuracy 0.99
+step 21800, validation accuracy0.864281
+step 22000, training accuracy 0.98
+step 22000, validation accuracy0.867115
+step 22200, training accuracy 0.98
+step 22200, validation accuracy0.870447
+Model saved in file: ./model.ckpt
+test accuracy 0.899001
+******************* EPOCH 16 **************
+step 22400, training accuracy 1
+step 22400, validation accuracy0.873707
+step 22600, training accuracy 1
+step 22600, validation accuracy0.874486
+step 22800, training accuracy 0.98
+step 22800, validation accuracy0.87321
+step 23000, training accuracy 0.99
+step 23000, validation accuracy0.876754
+step 23200, training accuracy 0.98
+step 23200, validation accuracy0.872856
+step 23400, training accuracy 0.97
+step 23400, validation accuracy0.870517
+step 23600, training accuracy 1
+step 23600, validation accuracy0.866903
+Model saved in file: ./model.ckpt
+test accuracy 0.89978
+******************* EPOCH 17 **************
+step 23800, training accuracy 1
+step 23800, validation accuracy0.872502
+step 24000, training accuracy 0.99
+step 24000, validation accuracy0.87321
+step 24200, training accuracy 1
+step 24200, validation accuracy0.876683
+step 24400, training accuracy 1
+step 24400, validation accuracy0.874203
+step 24600, training accuracy 0.98
+step 24600, validation accuracy0.868391
+step 24800, training accuracy 1
+step 24800, validation accuracy0.87321
+step 25000, training accuracy 0.98
+step 25000, validation accuracy0.875266
+Model saved in file: ./model.ckpt
+test accuracy 0.902543
+******************* EPOCH 18 **************
+step 25200, training accuracy 0.99
+step 25200, validation accuracy0.873352
+step 25400, training accuracy 1
+step 25400, validation accuracy0.870872
+step 25600, training accuracy 0.99
+step 25600, validation accuracy0.870234
+step 25800, training accuracy 0.98
+step 25800, validation accuracy0.875195
+step 26000, training accuracy 1
+step 26000, validation accuracy0.871297
+step 26200, training accuracy 1
+step 26200, validation accuracy0.869809
+step 26400, training accuracy 1
+step 26400, validation accuracy0.869667
+Model saved in file: ./model.ckpt
+test accuracy 0.901693
+******************* EPOCH 19 **************
+step 26600, training accuracy 1
+step 26600, validation accuracy0.872927
+step 26800, training accuracy 0.99
+step 26800, validation accuracy0.875337
+step 27000, training accuracy 1
+step 27000, validation accuracy0.863359
+step 27200, training accuracy 1
+step 27200, validation accuracy0.866265
+step 27400, training accuracy 1
+step 27400, validation accuracy0.867753
+step 27600, training accuracy 0.97
+step 27600, validation accuracy0.870872
+step 27800, training accuracy 1
+step 27800, validation accuracy0.867045
+Model saved in file: ./model.ckpt
+test accuracy 0.906084
+******************* EPOCH 20 **************
+step 28000, training accuracy 1
+step 28000, validation accuracy0.867328
+step 28200, training accuracy 1
+step 28200, validation accuracy0.868179
+step 28400, training accuracy 0.99
+step 28400, validation accuracy0.872644
+step 28600, training accuracy 0.99
+step 28600, validation accuracy0.870588
+step 28800, training accuracy 1
+step 28800, validation accuracy0.865911
+step 29000, training accuracy 0.99
+step 29000, validation accuracy0.872644
+step 29200, training accuracy 1
+step 29200, validation accuracy0.869454
+Model saved in file: ./model.ckpt
+test accuracy 0.905022
+******************* EPOCH 21 **************
+step 29400, training accuracy 1
+step 29400, validation accuracy0.870517
+step 29600, training accuracy 1
+step 29600, validation accuracy0.867045
+step 29800, training accuracy 1
+step 29800, validation accuracy0.866832
+step 30000, training accuracy 1
+step 30000, validation accuracy0.870447
+step 30200, training accuracy 0.99
+step 30200, validation accuracy0.870092
+step 30400, training accuracy 0.99
+step 30400, validation accuracy0.870447
+step 30600, training accuracy 0.99
+step 30600, validation accuracy0.867541
+Model saved in file: ./model.ckpt
+test accuracy 0.904951
+******************* EPOCH 22 **************
+step 30800, training accuracy 1
+step 30800, validation accuracy0.866974
+step 31000, training accuracy 1
+step 31000, validation accuracy0.870588
+step 31200, training accuracy 1
+step 31200, validation accuracy0.871013
+step 31400, training accuracy 0.99
+step 31400, validation accuracy0.863855
+step 31600, training accuracy 0.99
+step 31600, validation accuracy0.871368
+step 31800, training accuracy 1
+step 31800, validation accuracy0.872644
+Model saved in file: ./model.ckpt
+test accuracy 0.904172
+******************* EPOCH 23 **************
+step 32000, training accuracy 1
+step 32000, validation accuracy0.868675
+step 32200, training accuracy 1
+step 32200, validation accuracy0.875833
+step 32400, training accuracy 1
+step 32400, validation accuracy0.866974
+step 32600, training accuracy 1
+step 32600, validation accuracy0.870092
+step 32800, training accuracy 1
+step 32800, validation accuracy0.869383
+step 33000, training accuracy 1
+step 33000, validation accuracy0.866903
+step 33200, training accuracy 0.99
+step 33200, validation accuracy0.872714
+Model saved in file: ./model.ckpt
+test accuracy 0.902472
+******************* EPOCH 24 **************
+step 33400, training accuracy 1
+step 33400, validation accuracy0.865698
+step 33600, training accuracy 1
+step 33600, validation accuracy0.874061
+step 33800, training accuracy 1
+step 33800, validation accuracy0.867186
+step 34000, training accuracy 1
+step 34000, validation accuracy0.869809
+step 34200, training accuracy 1
+step 34200, validation accuracy0.871226
+step 34400, training accuracy 0.98
+step 34400, validation accuracy0.87073
+step 34600, training accuracy 1
+step 34600, validation accuracy0.86669
+Model saved in file: ./model.ckpt
+test accuracy 0.907288
+Done!!
